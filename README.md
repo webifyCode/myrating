@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub repo](https://github.com/webifyCode/myrating)
-- Live Site URL: [Live sit](https://webifyCode.github.io/myrating)
+- Live Site URL: [Live site](https://webifyCode.github.io/myrating)
 
 ## My process
 
